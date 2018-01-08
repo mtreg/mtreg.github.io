@@ -35,19 +35,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>About</title>
-      <link>/about.html</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/about.html</guid>
-      <description>Testing
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
       <link>/about/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -67,37 +54,23 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
-      <title>About</title>
+      <title>Research</title>
       <link>/research/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Education: There I taught courses on Click Here to view as a PDF Doctor of Philosophy (2014) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald  Dissertation Title: Multi-Scale Conservation in an Altered Landscape: The Case of the Endangered Arroyo Toad in Southern California Masters of Science (2010) Texas A&amp;amp;M University, Department of Wildlife and Fisheries, Advised by Dr. Lee Fitzgerald
- Thesis Title: A Translocated Population of the St.</description>
+      <description>Click here to get to a list of publications
+Current Work My research is broadly focused on using modern statistical and computing tools to inform conservation efforts. I recently started working in New York City, and am using available remote sensing data and GIS datasets to characterize open space dynamics, understand how connected wildlife populations might be across the city, and map previously-unmapped assests, like green roofs. Postdoc Research My main research at the University of Tulsa was focused on understanding how life history traits of amphibians may play into effects of climate change.</description>
     </item>
     
     <item>
-      <title>Code</title>
-      <link>/code.html</link>
+      <title>Teaching</title>
+      <link>/teaching/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/code.html</guid>
-      <description>Testing
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/research.html</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/research.html</guid>
-      <description>Current Research
-My research is broadly focused on using modern statistical and computing tools to inform conservation efforts. I recently started working in New York City, and am using available remote sensing data and GIS datasets to characterize open space dynamics, understand how connected wildlife populations might be across the city, and map previously-unmapped assests, like green roofs. Postdoc Research
-My main reseach at the University of Tulsa was focused on understanding how life history traits of amphibians may play into effects of climate change.</description>
+      <guid>/teaching/</guid>
+      <description>QGIS Tutorial QGIS is a well-developed, open source GIS program, with a wide range of features and great compatability with numerous formats. Furthermore, basic installation includes linkages with other open source GIS tools such as GRASS GIS and SAGA (among others). It is one primary software packages that I use in research and teach in classes.
+This tutorial is designed to familiarize GIS users with the general layout, features and tools of QGIS, through working with sample datasets that are provided.</description>
     </item>
     
     <item>
@@ -109,15 +82,6 @@ My main reseach at the University of Tulsa was focused on understanding how life
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact.html</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/contact.html</guid>
-      <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
     </item>
     
     <item>
@@ -142,24 +106,6 @@ More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/photography.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/photography.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/teaching.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching.html</guid>
-      <description></description>
     </item>
     
   </channel>

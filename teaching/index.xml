@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Mike Treglia</title>
+    <link>/teaching.html</link>
+    <description>Recent content in Teachings on Mike Treglia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>QGIS Tutorial QGIS is a well-developed, open source GIS program, with a wide range of features and great compatability with numerous formats. Furthermore, basic installation includes linkages with other open source GIS tools such as GRASS GIS and SAGA (among others). It is one primary software packages that I use in research and teach in classes.
+This tutorial is designed to familiarize GIS users with the general layout, features and tools of QGIS, through working with sample datasets that are provided.</description>
+    </item>
+    
+  </channel>
+</rss>
