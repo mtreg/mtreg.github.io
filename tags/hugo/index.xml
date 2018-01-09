@@ -7,23 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Time for Webpage Makeover Testing</title>
+      <link>/post/time-for-webpage-update-testing/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>/post/time-for-webpage-update-testing/</guid>
+      <description>Time for a ChangeI got my original website started in the beginning of grad school (circa 2007), with great help from a college friend. As this one, it was a static webpage, but relied directly CSS and HTML, with no real page generator in the sense of Jekyll or Hugo. It’s been great for me - serving as a place to link other projects I’ve developed; for example, a QGIS tutorial I wrote for a workshop, and materials from a GIS/Spatial Analysis course I taught as a postdoc.</description>
+    </item>
+    
+    <item>
+      <title>Time for Webpage Makeover</title>
+      <link>/post/time-for-webpage-update/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/time-for-webpage-update/</guid>
+      <description>Time for a Change I got my original website started in the beginning of grad school (circa 2007), with great help from a college friend. As this one, it was a static webpage, but relied directly CSS and HTML, with no real page generator in the sense of Jekyll or Hugo. It&amp;rsquo;s been great for me - serving as a place to link other projects I&amp;rsquo;ve developed; for example, a QGIS tutorial I wrote for a workshop, and materials from a GIS/Spatial Analysis course I taught as a postdoc.</description>
     </item>
     
   </channel>

@@ -7,53 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown 2</title>
-      <link>/post/2018-01-08-testing123/</link>
-      <pubDate>Mon, 23 Jul 2018 21:13:14 -0500</pubDate>
+      <title>Time for Webpage Makeover Testing</title>
+      <link>/post/time-for-webpage-update-testing/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-01-08-testing123/</guid>
-      <description>R Markdown TESTINGThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/time-for-webpage-update-testing/</guid>
+      <description>Time for a ChangeI got my original website started in the beginning of grad school (circa 2007), with great help from a college friend. As this one, it was a static webpage, but relied directly CSS and HTML, with no real page generator in the sense of Jekyll or Hugo. It’s been great for me - serving as a place to link other projects I’ve developed; for example, a QGIS tutorial I wrote for a workshop, and materials from a GIS/Spatial Analysis course I taught as a postdoc.</description>
     </item>
     
     <item>
-      <title>Testing 2</title>
-      <link>/post/testing-2/</link>
+      <title>Time for Webpage Makeover</title>
+      <link>/post/time-for-webpage-update/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing-2/</guid>
-      <description>R Markdown TESTING againThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
-    </item>
-    
-    <item>
-      <title>testing one nore time</title>
-      <link>/post/testing-one-nore-time/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/testing-one-nore-time/</guid>
-      <description>R Markdown TestingThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown TestingThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/time-for-webpage-update/</guid>
+      <description>Time for a Change I got my original website started in the beginning of grad school (circa 2007), with great help from a college friend. As this one, it was a static webpage, but relied directly CSS and HTML, with no real page generator in the sense of Jekyll or Hugo. It&amp;rsquo;s been great for me - serving as a place to link other projects I&amp;rsquo;ve developed; for example, a QGIS tutorial I wrote for a workshop, and materials from a GIS/Spatial Analysis course I taught as a postdoc.</description>
     </item>
     
   </channel>
