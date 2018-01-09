@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Mike Treglia</title>
-    <link>/topics.html</link>
+    <link>/topics/</link>
     <description>Recent content in Topics on Mike Treglia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
